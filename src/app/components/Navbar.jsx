@@ -17,6 +17,7 @@ const Navbar = () => {
       </li>
       <li><Link href="../blog/">Blog</Link></li>
       <li><Link href="../dashboard/">Dashboard</Link></li>
+      <li><Link href="../users/">Users</Link></li>
     </>
   );
   return (
